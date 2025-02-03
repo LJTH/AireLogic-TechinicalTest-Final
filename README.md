@@ -3,7 +3,7 @@
 Firstly, thank you for the opportunity, and thank you for reviewing this code.
 
 My background is primariy C# .Net with Entity Framework so I have create a full working web API.
-Most features have been written (I had overlooked the part where it states that not all features are required!).
+Most features have been written (I had misread the part where it states that not all features are required, and read it as all features are required!).
 Code is layered to enable consumers to swap out the backend/frontend. An example of this is if the client wants
 to use a different database (currently SQL Server), the code is extensible to provide different repositories. 
 
